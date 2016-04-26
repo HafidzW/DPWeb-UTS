@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+  <!--<meta http-equiv="refresh" content="5">-->
+</head>
+<frameset rows="50px,80px,100%,40px%" border="0">
+	<frame src="content/atribut/menu.html" name="menu">
+	<frame src="content/atribut/head.html" name="head">
+	<frameset cols="75%,25%" >
+		<frame src="content/menu/home.html" name="isi">
+		<frame src="content/atribut/sidebar.html" name="sidebar">
+        </frameset>
+	<frame src="content/atribut/Footer.html" name="footer">
+</frameset>
+
+</html>
