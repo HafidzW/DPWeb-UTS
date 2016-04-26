@@ -1,0 +1,14 @@
+#body{
+	background-color:#2A2A2A;
+}
+#box{
+	background-color:#555555;
+}
+#box2{
+	background-color:#555555;
+}
+.blank{
+	background-color:#2A2A2A;
+	height:10px;
+	border:0;
+}

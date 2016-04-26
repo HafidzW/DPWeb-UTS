@@ -1,0 +1,18 @@
+.judul{
+	height:30px;
+	text-align:center;
+}
+.judul a{
+	font-size:20px;
+	font-weight:bold;
+}
+.konten{
+	height:150px;
+	width:500px;
+}
+.box{
+	background-color:silver;
+}
+.blank{
+	background-color:white;
+}
